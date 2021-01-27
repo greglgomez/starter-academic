@@ -36,7 +36,7 @@ experience:
         * workshop facilitation
         
   - title: Contract Project Manager
-    company: @greglgomez
+    company: '@greglgomez'
     company_url: ''
     location:
     date_start: '2018-07-01'
