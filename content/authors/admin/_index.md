@@ -1,13 +1,9 @@
 ---
 role: UX Designer
 avatar_filename: avatar.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: exploring the connection between human computer interaction and permaculture
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/greglgomez
@@ -27,9 +23,6 @@ highlight_name: false
 title: Gregorio Luiz Gomez
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+*New technology, Old human being*. The world seems to change faster everyday, yet us meatbags are a bit slower to adapt. I'm a UX designer fascinated by the interplay of our evolving technology and our diminishing capacity as individuals to understand it all. My path has led me to explore Permaculture as one of the answers to technology that doesn't destroy our forests or undermine our democracies, **Eco Social Tech** if you will.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
