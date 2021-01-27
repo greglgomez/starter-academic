@@ -47,5 +47,5 @@ experience:
     company: Agents Unleashed
     location: remote
     date_start: '2019-09-01'
-    date_start: '2020-09-01'
+    date_end: '2020-09-01'
 ---
