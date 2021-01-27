@@ -41,11 +41,12 @@ experience:
     location:
     date_start: '2018-07-01'
     date_end: '2020-01-31'
-    description: PM for hire with clients in Brazil & UK.
+    description: 'PM for hire with clients in Brazil & UK'
 
   - title: Product Manager
     company: Agents Unleashed
     location: remote
     date_start: '2019-09-01'
     date_end: '2020-09-01'
+    description: 'helped two start-up co-founders deliver on their vision for an MVP of a real estate platform'
 ---
